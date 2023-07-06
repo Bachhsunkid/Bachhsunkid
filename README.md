@@ -13,7 +13,7 @@
 
 - 💼 I’m working for **GrapeCity, Inc.**
 
-- 🔭 I’m working on **.NET CORE** applications
+- 🔭 I’m working on **.NET CORE** 
 
 - 🌱 I’m learning **ReactJS**
 
