@@ -17,7 +17,7 @@
 
 - 🌱 I’m learning **ReactJS**
 
-- 🎓 I’m **Final Year Student**
+- 🎓 I’m a **Final Year Student**
 
 <br/>
 
