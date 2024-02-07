@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Bach+Trinh" alt="" /></h1>
 
-<h5 align="center"><em>A passionate backend developer from Viet Nam </em></h5>
+<h5 align="center"><em>A passionate fullstack developer from Vietnam </em></h5>
 
 
 <br/>
@@ -15,9 +15,11 @@
 
 - 🔭 I’m working on **.NET CORE** 
 
-- 🌱 I’m learning **ReactJS**
+- 🌱 I’m learning **AWS**
 
 - 🎓 I’m a **Final Year Student**
+
+- 🚀 HODL **SUI**
 
 <br/>
   
