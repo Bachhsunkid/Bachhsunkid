@@ -11,15 +11,11 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 
-- 💼 I’m working for **GrapeCity, Inc.**
-
-- 🔭 I’m working on **.NET CORE** 
-
-- 🌱 I’m learning **AWS**
-
-- 🎓 I’m a **Final Year Student**
-
-- 🚀 HODL **SUI**
+- 💼 Currently working at **GrapeCity, Inc.**
+- 🔭 Specializing in **.NET Core** and backend development.
+- ☁️ **AWS Certified Solutions Architect – Associate.**
+- 🛠️ 2+ years of experience in building scalable backend systems.
+- 🔗 Former **Builder for Cardano Catalyst.**
 
 <br/>
   
