@@ -14,7 +14,7 @@
 - 💼 Currently working at **GrapeCity, Inc.**
 - 🔭 Specializing in **.NET Core** and backend development.
 - ☁️ **AWS Certified Solutions Architect – Associate.**
-- 🛠️ 2+ years of experience in building scalable backend systems.
+- 🛠️ 3+ years of experience in building scalable backend systems.
 - 🔗 Former **Builder for Cardano Catalyst.**
 
 <br/>
